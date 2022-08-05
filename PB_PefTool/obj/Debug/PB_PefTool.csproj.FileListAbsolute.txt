@@ -1,0 +1,11 @@
+D:\資料\自製C#\PBTool\obj\Debug\PB_PefTool.csproj.AssemblyReference.cache
+D:\資料\自製C#\PBTool\obj\Debug\PB_PefTool.csproj.SuggestedBindingRedirects.cache
+D:\資料\自製C#\PBTool\obj\Debug\PB_PefTool.Form1.resources
+D:\資料\自製C#\PBTool\obj\Debug\PBTool.Properties.Resources.resources
+D:\資料\自製C#\PBTool\obj\Debug\PB_PefTool.csproj.GenerateResource.cache
+D:\資料\自製C#\PBTool\obj\Debug\PB_PefTool.csproj.CoreCompileInputs.cache
+D:\資料\自製C#\PBTool\bin\Debug\PBTool.exe.config
+D:\資料\自製C#\PBTool\bin\Debug\PBTool.exe
+D:\資料\自製C#\PBTool\bin\Debug\PBTool.pdb
+D:\資料\自製C#\PBTool\obj\Debug\PBTool.exe
+D:\資料\自製C#\PBTool\obj\Debug\PBTool.pdb
